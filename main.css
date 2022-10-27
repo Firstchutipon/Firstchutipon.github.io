@@ -1,0 +1,53 @@
+.avatar{
+    size: 5px;
+    border-radius: 250px;
+    position: absolute;
+    left:250px;
+}
+
+.name{
+    font-size: 48px;
+    text-transform: uppercase;
+    margin-bottom: 24px;
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+    position: absolute;
+    left: 100px;
+    top: 350;
+}
+
+.job{
+    font-size: 24px;
+    margin-bottom: 24px;
+    position: absolute;
+    left: 100px;
+    top: 450;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.about{
+    font-size: 16;
+    margin-bottom: 24px;
+    position: absolute;
+    left: 100px;
+    top: 550;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.contact{
+    font-size: 16px;
+    margin-bottom: 24px;
+    position: absolute;
+    left: 100px;
+    top:650;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.contact_button{
+    font-size: 16px;
+    margin-bottom: 24px;
+    position: absolute;
+    left: 100px;
+    top:750;
+    font-family: 'Times New Roman', Times, serif;
+}
